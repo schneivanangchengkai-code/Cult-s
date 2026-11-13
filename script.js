@@ -6,8 +6,8 @@
 const CULTUS = {
   phoneNumber: "",          // Example format: "+65 9123 4567"
   whatsappNumber: "",       // Optional; numbers only, including country code, e.g. "6591234567"
-  contactEmail: "",         // Your public business contact email
-  instagramUrl: "",         // Optional; your actual Instagram page URL
+  contactEmail: "schneivanangck22.26@ichat.sp.edu.sg",         // Your public business contact email
+  instagramUrl: "https://www.instagram.com/cultus_co/",         // Optional; your actual Instagram page URL
   newsletterEndpoint: ""    // Your Formspree form endpoint, e.g. "https://formspree.io/f/xxxxxxxx"
 };
 
